@@ -1,0 +1,26 @@
+{
+  "name": "jquery-progress",
+  "version": "1.0.1",
+  "description": "jquery.fn.progress canvas 进度条",
+  "keywords": [
+    "jquery",
+    "yquery",
+    "ydr",
+    "canvas",
+    "progress"
+  ],
+  "author": {
+    "name":"cloudcome",
+    "email":"cloudcome@163.com"
+  },
+  "homepage": "https://ydr.me/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudcome/jquery-progress"
+  },
+  "licenses": "MIT",
+  "spm": {
+    "main": "jquery-progress.js",
+    "dependencies": {}
+  }
+}
